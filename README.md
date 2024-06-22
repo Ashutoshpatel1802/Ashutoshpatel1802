@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ashutoshpatel1802
-- 🌱 I’m currently learning Web Deveolpment 
+- 🌱 I’m currently learning Web Deveolpment and Data Analytics.
+- Internship with IBM in Data Analytics.
   
 
 <!---
